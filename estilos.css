@@ -1,0 +1,146 @@
+@charset "utf-8";
+.fd_gr {
+	background-image: url(fatias/somec_fd_geral.jpg);
+	background-repeat: repeat-x;
+}
+.fd_meio {
+	background-image: url(fatias/somec_fd_meio.jpg);
+	background-repeat: no-repeat;
+}
+.fd_mn_top {
+	background-image: url(fatias/somec_fd_top_mn_seg.png);
+	background-repeat: no-repeat;
+}
+.ft_br_30 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #FFF;
+}
+.ft_vd_16 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #66ff00;
+}
+
+a#mn:link, a#mn:visited{ font-size:12px; color:#fff; display:block; outline:none; text-decoration:none; font-family:Verdana, Geneva, sans-serif}
+a#mn:hover, a#mn:active, a#mn:focus{ color:#fff; text-decoration:underline; font-size:12px; font-family:Verdana, Geneva, sans-serif} 
+
+a#link:link, a#link:visited{ font-size:12px; color:#000; display:block; outline:none; text-decoration:none; font-family:Verdana, Geneva, sans-serif}
+a#link:hover, a#link:active, a#link:focus{ color:#000; text-decoration:underline; font-size:12px; font-family:Verdana, Geneva, sans-serif} 
+
+a#proj:link, a#proj:visited{ font-size:12px; color:#4A6D00; display:block; outline:none; text-decoration:none; font-family:Verdana, Geneva, sans-serif}
+a#proj:hover, a#proj:active, a#proj:focus{ color:#4A6D00; text-decoration:underline; font-size:12px; font-family:Verdana, Geneva, sans-serif} 
+
+a#bts:link, a#bts:visited { background: url(fatias/bt_leiamais.png) no-repeat top left; display:block; width:119px; height:26px; ; text-decoration: none; outline:none;}
+a#bts:hover, a#bts:active, a#bts:focus{ background:url(fatias/bt_leiamais.png) no-repeat bottom left;}
+
+a#bts2:link, a#bts2:visited { background: url(fatias/bt_maisparceiros.png) no-repeat top left; display:block; width:119px; height:26px; ; text-decoration: none; outline:none;}
+a#bts2:hover, a#bts2:active, a#bts2:focus{ background:url(fatias/bt_maisparceiros.png) no-repeat bottom left;}
+
+a#bts3:link, a#bts3:visited { background: url(fatias/bt_maisprojetos.png) no-repeat top left; display:block; width:119px; height:26px; ; text-decoration: none; outline:none;}
+a#bts3:hover, a#bts3:active, a#bts3:focus{ background:url(fatias/bt_maisprojetos.png) no-repeat bottom left;}
+
+a#bts4:link, a#bts4:visited { background: url(fatias/bt_maisnoticias.png) no-repeat top left; display:block; width:119px; height:26px; ; text-decoration: none; outline:none;}
+a#bts4:hover, a#bts4:active, a#bts4:focus{ background:url(fatias/bt_maisnoticias.png) no-repeat bottom left;}
+
+.ft_br_12 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+.fd_mn_pri {
+	background-image: url(fatias/somec_fd_mn_principal.png);
+	background-repeat: no-repeat;
+}
+.fd_lat_esq {
+	background-image: url(fatias/somec_fd_lat_esq.png);
+	background-repeat: repeat-y;
+}
+.fd_lat_dir {
+	background-image: url(fatias/somec_fd_lat_dir.png);
+}
+.fd_sup_rod {
+	background-image: url(fatias/somec_fd_sup_rod.jpg);
+	background-repeat: repeat-x;
+}
+.fd_lat_esq_rod {
+	background-image: url(fatias/somec_lat_esq_fd_rod.png);
+	background-repeat: repeat-y;
+}
+.fd_lat_dir_rod {
+	background-image: url(fatias/somec_lat_dir_fd_rod.jpg);
+	background-repeat: repeat-y;
+}
+.fd_inf_rod {
+	background-image: url(fatias/somec_fd_inf_rod.jpg);
+	background-repeat: repeat-x;
+}
+.fd_rod {
+	background-image: url(fatias/somec_fd_inf_rod.png);
+	background-repeat: no-repeat;
+}
+.ft_br_22 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #FFF;
+}
+.ft_vd_tit_30 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #4a6e00;
+}
+.ft_cz_12 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+.ft_pt_12 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+.ft_vd_tit {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #4a6e00;
+}
+.fd_tit {
+	background-image: url(fatias/somec_listra_fd_tilt.jpg);
+	background-repeat: repeat-x;
+}
+.ft_cz_10 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #999;
+}
+.ft_vd_12 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #4a6e00;
+}
+.fd_fotos {
+	background-image: url(fatias/somec_fd_fotos.jpg);
+	background-repeat: no-repeat;
+}
+.fd_videos {
+	background-image: url(fatias/somec_fd_videos.jpg);
+	background-repeat: no-repeat;
+}
+.fd_list_hor {
+	background-image: url(fatias/somec_list_hor_proj.jpg);
+	background-repeat: repeat-x;
+}
+.cx_form {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #4A6E00;
+	background-color: #FFF;
+	border: 1px solid #4A6E00;
+}
+.bt_form {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	background-color: #4A6E00;
+	border: 1px solid #4B9601;
+}
